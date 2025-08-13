@@ -1,10 +1,10 @@
 {
-  "url": "https://github.com/exdovic/termniq-insiders/releases/download/0.0.1-snapshot.20250812-insider/Termniq-darwin-arm64-0.0.1-snapshot.20250812.zip",
-  "name": "0.0.1-snapshot.20250812-insider",
-  "version": "f6e18913ed6f4aa09cbd35fdf749c0c61b2a86b2",
-  "productVersion": "0.0.1-snapshot.20250812-insider",
+  "url": "https://github.com/exdovic/termniq-insiders/releases/download/0.0.1-snapshot.20250813-insider/Termniq-darwin-arm64-0.0.1-snapshot.20250813.zip",
+  "name": "0.0.1-snapshot.20250813-insider",
+  "version": "7ff228ba24ff1d25c9c4290a7511505dee24a8f1",
+  "productVersion": "0.0.1-snapshot.20250813-insider",
   "vscodeBaseVersion": "1.100.34097",
-  "hash": "422dfc31dccf80ad86faac4ed09c9d1bfda098bb",
-  "timestamp": 1754977746963,
-  "sha256hash": "db36e9571f2d45994cff267f9c20c580516266cf1a201fc09cfee6bfb78076a5"
+  "hash": "0fc34cee710e2586f4efc27083cad2ff881f6411",
+  "timestamp": 1755059022689,
+  "sha256hash": "9ac687a518721cefa2b7191a7d951afc891ba9e85550235f13f4d77e3f81310c"
 }
