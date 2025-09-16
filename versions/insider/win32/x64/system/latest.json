@@ -1,2 +1,10 @@
 {
+  "url": "https://github.com/exdovic/termniq-insiders/releases/download/0.11.1-snapshot.20250914-insider/TermniqSetup-x64-0.11.1-snapshot.20250914.exe",
+  "name": "0.11.1-snapshot.20250914-insider",
+  "version": "3f67189f21c8f1b2677c7fcfb9e2eabbc684d759",
+  "productVersion": "0.11.1-snapshot.20250914-insider",
+  "vscodeBaseVersion": "1.100.34097",
+  "hash": "ea414bc1d287d1c6b9183376f2bb7e046fe490ed",
+  "timestamp": 1757942434722,
+  "sha256hash": "22ecb1dc60053f34d213e48ce3aad5c7504875541a4f850f8aaf10b1fc7338b0"
 }
