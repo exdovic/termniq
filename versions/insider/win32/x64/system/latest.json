@@ -1,10 +1,10 @@
 {
-  "url": "https://github.com/exdovic/termniq-insiders/releases/download/0.11.1-snapshot.20250914-insider/TermniqSetup-x64-0.11.1-snapshot.20250914.exe",
-  "name": "0.11.1-snapshot.20250914-insider",
-  "version": "3f67189f21c8f1b2677c7fcfb9e2eabbc684d759",
-  "productVersion": "0.11.1-snapshot.20250914-insider",
+  "url": "https://sivmdfiodvt.termniq.dev/TermniqSetup-x64-0.11.2-snapshot.20251021.exe",
+  "name": "0.11.2-snapshot.20251021-insider",
+  "version": "85d5a9e69cd5ae61d91cb0b396531168f0aea36a",
+  "productVersion": "0.11.2-snapshot.20251021-insider",
   "vscodeBaseVersion": "1.100.34097",
-  "hash": "ea414bc1d287d1c6b9183376f2bb7e046fe490ed",
-  "timestamp": 1757942434722,
-  "sha256hash": "22ecb1dc60053f34d213e48ce3aad5c7504875541a4f850f8aaf10b1fc7338b0"
+  "hash": "2860f4e3ac899652ba607e8fcf8ff0f0b971041f",
+  "timestamp": 1761035137342,
+  "sha256hash": "d2c1b609fbae027e3ef12708520c440a16b91994fff88b2311872a44b4403cde"
 }
